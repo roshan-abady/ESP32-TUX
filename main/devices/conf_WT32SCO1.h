@@ -46,7 +46,7 @@ SOFTWARE.
 #define TFT_SCLK    GPIO_NUM_14
 #define TFT_DC      GPIO_NUM_21 
 #define TFT_CS      GPIO_NUM_15
-#define TFT_RST     GPIO_NUM_42  
+#define TFT_RST     GPIO_NUM_22  
 
 #define TOUCH_INT   GPIO_NUM_39
 #define TOUCH_SDA   GPIO_NUM_18
